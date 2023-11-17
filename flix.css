@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.me{
+    display: flex;
+    border: solid ;
+}
+.cut{
+    background: linear-gradient( to top,red, black);
+}
